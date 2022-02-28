@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\syver\Desktop\planetside_thing\c_version\PS2Shotgun_cpp\Project1\Source.cpp(299,126): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\syver\Desktop\planetside_thing\c_version\PS2Shotgun_cpp\Project1\Source.cpp(299,126): message : placeholders and their parameters expect 1 variadic arguments, but 3 were provided
+C:\Users\syver\Desktop\planetside_thing\c_version\PS2Shotgun_cpp\Project1\Source.cpp(552,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\syver\Desktop\planetside_thing\c_version\PS2Shotgun_cpp\Project1\Source.cpp(554,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\syver\Desktop\planetside_thing\c_version\PS2Shotgun_cpp\Project1\lib\tinycolormap.hpp(139): warning C4715: 'tinycolormap::GetColor': not all control paths return a value
+  Project1.vcxproj -> C:\Users\syver\Desktop\planetside_thing\c_version\PS2Shotgun_cpp\x64\Debug\Project1.exe
